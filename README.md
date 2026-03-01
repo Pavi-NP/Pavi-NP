@@ -22,7 +22,6 @@ Python • FastAPI • React • TypeScript • REST APIs • JWT
 **AI Governance**  
 Bias Detection • Privacy Compliance • Audit-Ready Logging
 
----
 
 ⚡ Currently building **MCP systems** for LLM tool integration  
 ⚡ Always exploring **new GenAI techniques**   
