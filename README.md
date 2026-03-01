@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi there, I'm [Pavi](https://github.com/Pavi-NP)) 👋
 
-<!--
-**Pavi-NP/Pavi-NP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI Engineer with a PhD in Applied Sciences, building production-grade Generative AI systems that turn cutting-edge research into real-world solutions.
 
-Here are some ideas to get you started:
+### Skills and Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Generative AI & LLMs**  
+RAG • Fine-tuning (LoRA/QLoRA) • MCP • LangChain • OpenAI/Claude APIs
+
+**Vector Databases**  
+Pinecone • ChromaDB • FAISS
+
+**ML Frameworks**  
+PyTorch • TensorFlow • Hugging Face • Scikit-learn • YOLOv8
+
+**MLOps & Cloud**  
+Azure • GCP • Docker • Kubernetes • CI/CD • Model Monitoring
+
+**Development**  
+Python • FastAPI • React • TypeScript • REST APIs • JWT
+
+**AI Governance**  
+Bias Detection • Privacy Compliance • Audit-Ready Logging
+
+---
+
+⚡ Currently building **MCP systems** for LLM tool integration  
+⚡ Always exploring **new GenAI techniques**   
+⚡ Fluent in English, Sinhalese, Japanese | Degrees from Australia & Japan
